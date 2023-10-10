@@ -1,0 +1,94 @@
+/************ navbar starts here ************/
+.navbar {
+  background-color: #A52A2A;
+  padding: 6px 6px;
+  justify-content: center;
+  font-family: "Georgia, serif";
+  }
+
+.navbar .navLinks {
+  max-width: 500px !important;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar .navLinks li a {
+  padding: 4px 2px;
+  font-size: 16px;
+  text-decoration: none;
+  color: #F5F5DC;
+}
+/************ navbar ends here ************/
+
+h1{font-family: "Georgia, serif";
+  font-size: 35px;
+  color: #F5F5DC;
+  justify-content: center;
+  display:flex;
+  flex-wrap:flex;
+}
+
+h2{font-family: "Georgia, serif";
+  size: 30px;
+  color: #A52A2A;
+}
+
+header {
+    background-image: url('https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.about-us{
+  background-color:#F5F5DC;
+  justify-content:center;
+  
+}
+h3 {font-family: "Georgia, serif";
+  size: 30px;
+  margin: 20px;20px;20px;20px;
+  text-align:center;}
+
+h4 {font-family: "Georgia, serif";
+  size: 30px;
+  margin: 10px;10px;10px;10px;
+  color:#A52A2A ;
+  text-align: center;}
+
+.menu-title
+{text-align: center;
+margin: 0 auto;
+width: 800px;} 
+
+.food-description
+{text-align:center;
+text-size: 8px;
+margin:5px;
+padding:10px;}
+
+.food-imgs{
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.sociallinks{
+  display:flex;
+  justify-content: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  }
+
+.sociallinks img{
+  padding:20px;
+}
+
+.copyright{
+  text-align:center;
+}
